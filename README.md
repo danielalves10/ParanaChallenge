@@ -1,6 +1,6 @@
 # ParanaChallenge
 
-On each folder there are each step from the challenge.
+There are 3 folders within this repo:
 
 "cenários de testes" folder there is a pdf file containing the first part of the challenge;<br>
 "selenium folder" is where the web automation project is stored. Within the project there is a readme file explaining the tecnhical dependencies.<br>
