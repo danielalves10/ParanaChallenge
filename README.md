@@ -1,5 +1,4 @@
 # ParanaChallenge
-parana challenge
 
 On each folder there are each step from the challenge.
 
